@@ -9,8 +9,8 @@
 
 <channel>
 	<title>D&amp;E BARCELONESA</title>
-	<atom:link href="https://www.limpiezayreformas.es/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.limpiezayreformas.es/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>D&#38;E BARCELONESA</description>
 	<lastBuildDate>Thu, 05 Mar 2020 17:14:00 +0000</lastBuildDate>
 	<language>es-ES</language>

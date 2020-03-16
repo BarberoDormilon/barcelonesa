@@ -1,7 +1,7 @@
 @font-face {
   font-family: wprmenu;
-  src: url(https://www.limpiezayreformas.es/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.eot?p8o4s0);
-  src: url(https://www.limpiezayreformas.es/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.eot?p8o4s0#iefix) format('embedded-opentype'),url(https://www.limpiezayreformas.es/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.ttf?p8o4s0) format('truetype'),url(https://www.limpiezayreformas.es/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.woff?p8o4s0) format('woff'),url(https://www.limpiezayreformas.es/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.svg?p8o4s0#wprmenu) format('svg');
+  src: url(/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.eot?p8o4s0);
+  src: url(/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.eot?p8o4s0#iefix) format('embedded-opentype'),url(/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.ttf?p8o4s0) format('truetype'),url(/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.woff?p8o4s0) format('woff'),url(/wp-content/plugins/wp-responsive-menu/fonts/wprmenu.svg?p8o4s0#wprmenu) format('svg');
   font-weight: 400;
   font-style: normal;
 }

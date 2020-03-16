@@ -14,104 +14,104 @@ Tags: responsive-layout, fluid-layout, custom-background, custom-menu, featured-
 -------------------------------------------------------------- */
 @font-face {
 	font-family: 'BelleroseLight';
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/original_Bellerose.eot#iefix') format('embedded-opentype'), 
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/original_Bellerose.woff') format('woff'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/original_Bellerose.ttf') format('truetype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/original_Bellerose.svg') format('svg');
+    src: url('/wp-content/themes/vantage/fonts/original_Bellerose.eot#iefix') format('embedded-opentype'), 
+         url('/wp-content/themes/vantage/fonts/original_Bellerose.woff') format('woff'),
+         url('/wp-content/themes/vantage/fonts/original_Bellerose.ttf') format('truetype'),
+         url('/wp-content/themes/vantage/fonts/original_Bellerose.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
     font-family: 'excelsior_italicitalic';
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/excelsior-italic-webfont-webfont.eot');
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/excelsior-italic-webfont-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/excelsior-italic-webfont-webfont.woff') format('woff'),
-		 url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/excelsior-italic-webfont.woff2') format('woff2'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/excelsior-italic-webfont-webfont.ttf') format('truetype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/excelsior-italic-webfont.svg#excelsior-italic') format('svg');
+    src: url('/wp-content/themes/vantage/fonts/excelsior-italic-webfont-webfont.eot');
+    src: url('/wp-content/themes/vantage/fonts/excelsior-italic-webfont-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/themes/vantage/fonts/excelsior-italic-webfont-webfont.woff') format('woff'),
+		 url('/wp-content/themes/vantage/fonts/excelsior-italic-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/vantage/fonts/excelsior-italic-webfont-webfont.ttf') format('truetype'),
+         url('/wp-content/themes/vantage/fonts/excelsior-italic-webfont.svg#excelsior-italic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'open_sansregular';
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-regular-webfont.eot');
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-regular-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-regular-webfont.woff') format('woff'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-regular-webfont.ttf') format('truetype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    src: url('/wp-content/themes/vantage/fonts/opensans-regular-webfont.eot');
+    src: url('/wp-content/themes/vantage/fonts/opensans-regular-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/themes/vantage/fonts/opensans-regular-webfont.woff') format('woff'),
+         url('/wp-content/themes/vantage/fonts/opensans-regular-webfont.ttf') format('truetype'),
+         url('/wp-content/themes/vantage/fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'open_sansbold';
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-bold-webfont.eot');
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-bold-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-bold-webfont.woff') format('woff'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-bold-webfont.ttf') format('truetype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/opensans-bold-webfont.svg#open_sansbold') format('svg');
+    src: url('/wp-content/themes/vantage/fonts/opensans-bold-webfont.eot');
+    src: url('/wp-content/themes/vantage/fonts/opensans-bold-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/themes/vantage/fonts/opensans-bold-webfont.woff') format('woff'),
+         url('/wp-content/themes/vantage/fonts/opensans-bold-webfont.ttf') format('truetype'),
+         url('/wp-content/themes/vantage/fonts/opensans-bold-webfont.svg#open_sansbold') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
   font-family: 'CenturyGothic';
-  src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic.eot');
-  src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic.eot#iefix') format('embedded-opentype'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic.woff2') format('woff2'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic.woff') format('woff'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic.ttf') format('truetype'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic.svg#CenturyGothic') format('svg');
+  src: url('/wp-content/themes/vantage/fonts/CenturyGothic.eot');
+  src: url('/wp-content/themes/vantage/fonts/CenturyGothic.eot#iefix') format('embedded-opentype'),
+       url('/wp-content/themes/vantage/fonts/CenturyGothic.woff2') format('woff2'),
+       url('/wp-content/themes/vantage/fonts/CenturyGothic.woff') format('woff'),
+       url('/wp-content/themes/vantage/fonts/CenturyGothic.ttf') format('truetype'),
+       url('/wp-content/themes/vantage/fonts/CenturyGothic.svg#CenturyGothic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'CenturyGothic-Bold';
-  src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic-Bold.eot');
-  src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic-Bold.eot#iefix') format('embedded-opentype'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic-Bold.woff2') format('woff2'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic-Bold.woff') format('woff'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic-Bold.ttf') format('truetype'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/CenturyGothic-Bold.svg#CenturyGothic-Bold') format('svg');
+  src: url('/wp-content/themes/vantage/fonts/CenturyGothic-Bold.eot');
+  src: url('/wp-content/themes/vantage/fonts/CenturyGothic-Bold.eot#iefix') format('embedded-opentype'),
+       url('/wp-content/themes/vantage/fonts/CenturyGothic-Bold.woff2') format('woff2'),
+       url('/wp-content/themes/vantage/fonts/CenturyGothic-Bold.woff') format('woff'),
+       url('/wp-content/themes/vantage/fonts/CenturyGothic-Bold.ttf') format('truetype'),
+       url('/wp-content/themes/vantage/fonts/CenturyGothic-Bold.svg#CenturyGothic-Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
     font-family: 'FrenchScriptMT';
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/FrenchScriptMT.eot#iefix') format('embedded-opentype'),  
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/FrenchScriptMT.woff') format('woff'), 
-	     url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/FrenchScriptMT.ttf')  format('truetype'), 
-	     url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/FrenchScriptMT.svg#FrenchScriptMT') format('svg');
+    src: url('/wp-content/themes/vantage/fonts/FrenchScriptMT.eot#iefix') format('embedded-opentype'),  
+         url('/wp-content/themes/vantage/fonts/FrenchScriptMT.woff') format('woff'), 
+	     url('/wp-content/themes/vantage/fonts/FrenchScriptMT.ttf')  format('truetype'), 
+	     url('/wp-content/themes/vantage/fonts/FrenchScriptMT.svg#FrenchScriptMT') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
 	font-family: 'Flaticon';
-	src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/blaklitn.eot');
-	src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/blaklitn.eot#iefix') format('embedded-opentype'),
-	url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/blaklitn.woff') format('woff'),
-	url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/blaklitn.ttf') format('truetype'),
-	url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/blaklitn.svg') format('svg');
+	src: url('/wp-content/themes/vantage/fonts/blaklitn.eot');
+	src: url('/wp-content/themes/vantage/fonts/blaklitn.eot#iefix') format('embedded-opentype'),
+	url('/wp-content/themes/vantage/fonts/blaklitn.woff') format('woff'),
+	url('/wp-content/themes/vantage/fonts/blaklitn.ttf') format('truetype'),
+	url('/wp-content/themes/vantage/fonts/blaklitn.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
     font-family: 'dejavu_sansbook';
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/dejavusans-webfont.eot');
-    src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/dejavusans-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/dejavusans-webfont.woff2') format('woff2'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/dejavusans-webfont.woff') format('woff'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/dejavusans-webfont.ttf') format('truetype'),
-         url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/dejavusans-webfont.svg#dejavu_sansbook') format('svg');
+    src: url('/wp-content/themes/vantage/fonts/dejavusans-webfont.eot');
+    src: url('/wp-content/themes/vantage/fonts/dejavusans-webfont.eot#iefix') format('embedded-opentype'),
+         url('/wp-content/themes/vantage/fonts/dejavusans-webfont.woff2') format('woff2'),
+         url('/wp-content/themes/vantage/fonts/dejavusans-webfont.woff') format('woff'),
+         url('/wp-content/themes/vantage/fonts/dejavusans-webfont.ttf') format('truetype'),
+         url('/wp-content/themes/vantage/fonts/dejavusans-webfont.svg#dejavu_sansbook') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
   font-family: 'Lobster1.0';
-  src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/Lobster1.0.eot');
-  src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/Lobster1.0.woff2') format('woff2'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/Lobster1.0.woff') format('woff'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/Lobster1.0.ttf') format('truetype'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/Lobster1.0.svg#Lobster1.0') format('svg'),
-       url('https://www.limpiezayreformas.es/wp-content/themes/vantage/fonts/Lobster1.0.eot#iefix') format('embedded-opentype');
+  src: url('/wp-content/themes/vantage/fonts/Lobster1.0.eot');
+  src: url('/wp-content/themes/vantage/fonts/Lobster1.0.woff2') format('woff2'),
+       url('/wp-content/themes/vantage/fonts/Lobster1.0.woff') format('woff'),
+       url('/wp-content/themes/vantage/fonts/Lobster1.0.ttf') format('truetype'),
+       url('/wp-content/themes/vantage/fonts/Lobster1.0.svg#Lobster1.0') format('svg'),
+       url('/wp-content/themes/vantage/fonts/Lobster1.0.eot#iefix') format('embedded-opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -1083,7 +1083,7 @@ text-align: center;
 
 #recuadro-imagen {                 
   padding: 5px 5px 0px 10px;
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/fondo.jpg);
+  background: url(/wp-content/themes/vantage/images/fondo.jpg);
 }
   
   
@@ -2034,7 +2034,7 @@ article.page.post-with-thumbnail-icon .entry-main {
   padding: 0;
 }
 .entry-content ul {
-  list-style-image: url("https://www.limpiezayreformas.es/wp-content/themes/vantage/images/flecha.png");       /* SIMBOLO CIRCULO DEL MENU EN MODO WIDGET LATERAL ----------------------- */
+  list-style-image: url("/wp-content/themes/vantage/images/flecha.png");       /* SIMBOLO CIRCULO DEL MENU EN MODO WIDGET LATERAL ----------------------- */
 }
 .entry-content ol {
   list-style-type: decimal;
@@ -2551,13 +2551,13 @@ body.layout-full {
   width: 14px;
   height: 14px;
   cursor: pointer;
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/sprites/slide-indicator-inactive.png);
+  background: url(/wp-content/themes/vantage/images/sprites/slide-indicator-inactive.png);
 }
 .flexslider .flex-control-paging li a.flex-active {
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/sprites/slide-indicator-active.png);
+  background: url(/wp-content/themes/vantage/images/sprites/slide-indicator-active.png);
 }
 .flexslider .flex-control-paging li a:hover {
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/sprites/slide-indicator-inactive.png);
+  background: url(/wp-content/themes/vantage/images/sprites/slide-indicator-inactive.png);
 }
 .flexslider .flex-direction-nav {
   list-style: none;
@@ -2582,21 +2582,21 @@ body.layout-full {
 }
 .flexslider .flex-direction-nav li a.flex-prev {
   left: 0;
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/sprites/gallery-prev.png);
+  background: url(/wp-content/themes/vantage/images/sprites/gallery-prev.png);
 }
 .flexslider .flex-direction-nav li a.flex-next {
   right: 0;
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/sprites/gallery-next.png);
+  background: url(/wp-content/themes/vantage/images/sprites/gallery-next.png);
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
   .flexslider .flex-direction-nav li a {
     background-size: 32px 85px;
   }
   .flexslider .flex-direction-nav li a.flex-prev {
-    background-image: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/retina/gallery-prev.png);
+    background-image: url(/wp-content/themes/vantage/images/retina/gallery-prev.png);
   }
   .flexslider .flex-direction-nav li a.flex-next {
-    background-image: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/retina/gallery-next.png);
+    background-image: url(/wp-content/themes/vantage/images/retina/gallery-next.png);
   }
 }
 .flexslider:hover .flex-direction-nav li a {
@@ -2607,7 +2607,7 @@ body.layout-full {
   display: inline-block;
   padding: 8px 46px 8px 0;
   font-weight: bold;
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/slider/action.png) right center no-repeat;
+  background: url(/wp-content/themes/vantage/slider/action.png) right center no-repeat;
 }
 .metaslider .msHtmlOverlay .layer .siteorigin-slider-action-button a {
   font-size: 16px;
@@ -2903,11 +2903,11 @@ body.layout-full {
   width: 5px;
   height: 8px;
   margin-left: 3px;
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/sprites/more-icon.png) no-repeat;
+  background: url(/wp-content/themes/vantage/images/sprites/more-icon.png) no-repeat;
 }
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
   .widget_circleicon-widget .circle-icon-box a.more-button i {
-    background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/retina/more-icon.png);
+    background: url(/wp-content/themes/vantage/images/retina/more-icon.png);
     background-size: 5px 8px;
   }
 }
@@ -3443,7 +3443,7 @@ body.layout-full {
   width: 242px;
   height: 162px;
   float: left;
-  background: url(https://www.limpiezayreformas.es/wp-content/themes/vantage/images/carousel-loader.gif) #f6f6f6 center center no-repeat;
+  background: url(/wp-content/themes/vantage/images/carousel-loader.gif) #f6f6f6 center center no-repeat;
   margin: 0;
 }
 .vantage-grid-loop {
@@ -3720,8 +3720,8 @@ body.layout-full {
 }
 @font-face {
   font-family: 'vantage-icons';
-  src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/icons/vantage-icons.eot?-9o183q');
-  src: url('https://www.limpiezayreformas.es/wp-content/themes/vantage/icons/vantage-icons.eot#iefix-9o183q') format('embedded-opentype'), url('https://www.limpiezayreformas.es/wp-content/themes/vantage/icons/vantage-icons.woff?-9o183q') format('woff'), url('https://www.limpiezayreformas.es/wp-content/themes/vantage/icons/vantage-icons.ttf?-9o183q') format('truetype'), url('https://www.limpiezayreformas.es/wp-content/themes/vantage/icons/vantage-icons.svg?-9o183q#icomoon') format('svg');
+  src: url('/wp-content/themes/vantage/icons/vantage-icons.eot?-9o183q');
+  src: url('/wp-content/themes/vantage/icons/vantage-icons.eot#iefix-9o183q') format('embedded-opentype'), url('/wp-content/themes/vantage/icons/vantage-icons.woff?-9o183q') format('woff'), url('/wp-content/themes/vantage/icons/vantage-icons.ttf?-9o183q') format('truetype'), url('/wp-content/themes/vantage/icons/vantage-icons.svg?-9o183q#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }

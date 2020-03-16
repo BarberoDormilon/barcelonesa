@@ -6,10 +6,10 @@
 }
 .rating-cancel,
 .rating-cancel a {
-	background: url(https://www.limpiezayreformas.es/wp-content/plugins/ninja-forms/images/delete.gif) no-repeat 0 -16px
+	background: url(/wp-content/plugins/ninja-forms/images/delete.gif) no-repeat 0 -16px
 }
 .ninja-forms-star-rating a {
-	background: url(https://www.limpiezayreformas.es/wp-content/plugins/ninja-forms/images/star.gif) no-repeat 0 0px
+	background: url(/wp-content/plugins/ninja-forms/images/star.gif) no-repeat 0 0px
 }
 .rating-cancel a,
 .ninja-forms-star-rating a {

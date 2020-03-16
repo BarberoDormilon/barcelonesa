@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Comentarios para D&amp;E BARCELONESA</title>
-	<atom:link href="https://www.limpiezayreformas.es/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.limpiezayreformas.es/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>D&#38;E BARCELONESA</description>
-	<lastBuildDate>Mon, 16 Mar 2020 11:01:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Mar 2020 14:51:36 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.13</generator>
